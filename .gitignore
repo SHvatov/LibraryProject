@@ -1,3 +1,10 @@
+# maven files
+mvnw
+mvnw.cmd
+library.iml
+.mvn
+.idea
+
 # Compiled class file
 *.class
 
